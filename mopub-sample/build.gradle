@@ -18,7 +18,7 @@ apply plugin: 'com.android.application'
 
 project.group = 'com.mopub'
 project.description = '''MoPub Sample App'''
-project.version = '4.19.0'
+project.version = '4.20.0'
 
 android {
     compileSdkVersion 26
@@ -26,7 +26,7 @@ android {
     lintOptions { abortOnError false }
 
     defaultConfig {
-        versionCode 57
+        versionCode 58
         versionName version
         minSdkVersion 16
         targetSdkVersion 26
